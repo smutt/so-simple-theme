@@ -1,33 +1,21 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+title: About
+description: "About Maria Stoop"
+tags: [portfolio, freelance writing, editing, translation]
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+My name is Maria and I am a wordaholic. The second word I learned to say, was 'book'. In primary school I published my own newspaper, typing out multiple copies of the front page article about a kidnapped lady bug on a cast iron typewriter. As a high school student I volunteered as a journalist for a local 'street news' newspaper, wrote short stories and participated in online English language lyric writing contests. 
 
-## So Simple Theme is all about:
+After graduating from high school I briefly pursued a career as an illustrative artist, but I decided soon that I preferred the 
+world of the word. While working a variety of jobs, I spent my evenings studying to become a translator at ITV Hogeschool voor 
+Tolken en Vertalen (ITV College for Interpreting and Translation). Soon thereafter I decided to commit to studying full time. 
+At Utrecht University I first obtained a Bachelor's degree and eventually graduated with an MA in Literatuurwetenschap (Literary 
+Studies). An internship during my studies lead to my first job in the publishing world, writing and editing copy for a variety 
+of textbooks, exams and assessments.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+Before, after and alongside my work in instructional design and educational publishing I have always taken on different freelance 
+projects. I have edited texts such as graduate and undergraduate level theses, graduate school admissions essays, resumes and 
+commercial website copy. As a translator I have worked on projects such as short stories, speeches and user interface text for 
+online applications. Aside from my professional language activities, I continue to write for my own enjoyment.

@@ -1,4 +1,8 @@
 _site
+_posts
+_plugins
+_drafts
+assets/static
 .DS_Store
 *.sublime-project
 *.sublime-workspace
