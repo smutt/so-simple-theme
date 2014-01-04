@@ -6,7 +6,7 @@ description: "Resume"
 tags: [portfolio, freelance writing, editing, translation]
 ---
 
-Below you will find a long version of my resume. A condensed version can be downloaded [here](). 
+Below you will find a long version of my resume. A condensed version can be downloaded [here](/assets/static/maria-stoop-resume.pdf).
 
 Professional experience
 ======================
@@ -184,26 +184,26 @@ Illustratieve vormgeving (Illustrative Arts)
 
 Languages
 ==========
-__Native level fluency:__ Dutch, English
+__Native level fluency:__ Dutch, English.
 
-__Some understanding of:__ French, German, Middle Dutch, Middle English
+__Some understanding of:__ French, German, Middle Dutch, Middle English.
 
 
 Software and programming
 ========================
-__Extensive working knowledge of:__ Windows OS (XP, Vista, 7), Mac OS (X, Snow Leopard, Mountain Lion), Microsoft Office, Open Office 
+__Extensive working knowledge of:__ Windows OS (XP, Vista, 7), Mac OS (X, Snow Leopard, Mountain Lion), Microsoft Office, Open Office.
 
-__Some working knowledge of:__ Transifex, InCopy, Jira, Testrails, Python, Wordpress, HTML,  Debian (Lenny)
+__Some working knowledge of:__ Transifex, InCopy, Jira, Testrails, Python, Wordpress, HTML,  Debian (Lenny).
 
 
 Volunteer causes and hobbies
 =============================
 __Board member__ of the Village Residents Association in UC Berkeley's 'University Village'.
 
-__Chair__ of the Village Residents Association's Communication Committee
+__Chair__ of the Village Residents Association's Communication Committee.
 
-__Co-Founder__ of the Village Entrepreneur Group
+__Co-Founder__ of the Village Entrepreneur Group.
 
-__Prior causes__ Providing care and socialization to shelter dogs, volunteer journalist for street newspaper, moderator and admin of an online lifestyle community.
+__Prior causes:__ Providing care and socialization to shelter dogs, volunteer journalist for street newspaper, moderator and admin of an online lifestyle community.
 
-__Hobbies__ Reading, drawing, whisky tasting, hiking. 
+__Hobbies:__ Reading, drawing, whisky tasting, hiking, train travel. 
